@@ -9,6 +9,6 @@ the basic idea is that for each state the game is in, we finish the game startin
 
 ## Notes 
 - you can change the number of games to complete per state by changing the value of "GAMES_TO_FINISH_PER_STATE".
-
+- if the  value of "GAMES_TO_FINISH_PER_STATE" is 100, the game will reach the 4098 tile most of the times
 ## Credits
 [lewisjdeane](https://github.com/lewisjdeane/2048-Game) coded the base game with amazing style!
